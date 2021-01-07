@@ -1,0 +1,23 @@
+#container{
+    margin: 20px;
+}
+
+.goal{
+    border: 1px solid gray;
+    background-color: gold;
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, .35);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.goal p{
+    font-size: 1.25em;
+}
+
+.btnComplete, .btnDelete{
+    float:right;
+}
